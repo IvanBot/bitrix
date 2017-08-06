@@ -1,11 +1,11 @@
 # TODO
 
-- [ ] Create template for DOJO
- - [X] Learn Project Structure
- - [X] Add Schema.org
- - [X] Add 404 page
- - [ ] Add site map page
- - [ ] Add Components into `index.php`
+- [X] Create template for DOJO
+- [X] Learn Project Structure
+- [X] Add Schema.org
+- [X] Add 404 page
+- [X] Add site map page
+- [ ] Add Components into `index.php`
 
 ---
 
@@ -314,3 +314,5 @@ World Book
 ## Создание компонента
 
 Внутри компонента можно создать файл `class.php`, который должен содержать класс, унаследованный от `CBitrixComponent`. Благодаря этому можно использовать наследование классов других компонентов при создании своих — иногда это очень полезный инструмент.
+
+*to be continued...*
