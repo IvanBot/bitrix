@@ -1,0 +1,4 @@
+www/*
+!www/local/
+!www/index.php
+!www/404.php
